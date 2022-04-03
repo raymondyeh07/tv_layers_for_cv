@@ -49,7 +49,7 @@ python -m unittest discover tests/
 ```
 
 ## Demo
-We illustrate how to use our TV layer in a juypter-notebook (`demo/tv_2d_illustration.ipynb`). We a pdf version of the notebook (`demo/tv_2d_illustration.pdf`) is also provided. To run the notebook, one will need to install a few more dependices.
+We illustrate how to use our TV layer in a juypter-notebook (`demo/tv_2d_illustration.ipynb`). To run the notebook, one will need to install a few more dependices.
 ```bash
 conda install -c conda-forge notebook
 conda install -c conda-forge nb_conda_kernels
