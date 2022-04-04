@@ -59,4 +59,4 @@ jupyter-notebook demo/tv_2d_illustration.ipynb
 ```
 
 ## Acknowledgements
-We thank [proxTV](https://github.com/albarji/proxTV) and [carpet](https://github.com/hcherkaoui/carpet) for open sourcing their implementation, which we refered to during the development of this codebase.
+We thank [proxTV](https://github.com/albarji/proxTV) and [carpet](https://github.com/hcherkaoui/carpet) for open sourcing their implementation, which we referred to during the development of this codebase.
