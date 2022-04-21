@@ -1,6 +1,6 @@
 # Total Variation Optimization Layers for Computer Vision
 
-### CVPR 2022
+### CVPR 2022 ([PDF](https://arxiv.org/abs/2204.03643))
 [Raymond A. Yeh](https://www.raymond-yeh.com/)<sup>1</sup> ,
 [Yuan-Ting Hu](https://sites.google.com/view/yuantinghu),
 [Zhongzheng Ren](https://jason718.github.io/),
