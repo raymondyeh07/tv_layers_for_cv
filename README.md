@@ -40,7 +40,7 @@ We have tested these instructions with Ubuntu 20.04 using GCC 9.3.0.
 Make sure to use a GCC version 4.9 or above
 ```bash
 cd tv_opt_layers/helpers/cuda/
-python setup install
+python setup.py install
 ```
 
 ## Run Tests
