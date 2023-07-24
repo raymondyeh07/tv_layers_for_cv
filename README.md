@@ -31,7 +31,7 @@ conda install conda-build
 conda install pytorch=1.9.0 torchvision torchaudio cudatoolkit=11.1.74 -c pytorch -c nvidia
 conda install -c anaconda scipy
 pip install prox-tv
-cd tv_opt_layers_code
+cd tv_layers_for_cv
 conda develop .
 ```
 We have tested these instructions with Ubuntu 20.04 using GCC 9.3.0.
